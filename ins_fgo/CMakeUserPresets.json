@@ -1,0 +1,13 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/Users/ghms/ws/testing/gtsam-conan/build/CMakePresets.json",
+        "/Users/ghms/ws/testing/gtsam-ins-test/build/CMakePresets.json",
+        "/Users/ghms/ws/ntnu/parnav_ins_simulator/ins_fgo/build/CMakePresets.json",
+        "build/CMakePresets.json",
+        "build_debug/CMakePresets.json"
+    ]
+}
